@@ -40,6 +40,16 @@ input{
 img{
     width: 200px;
     height: 200px;
-
-   
+}
+#about{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+.contact{
+    margin: 0px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
